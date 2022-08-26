@@ -1,4 +1,13 @@
-name = imput ("Your mom is gay")
-print('Hello', '!') 
+name = input("Your mom is gay")
 
-begin_name = int(input('Why is your mom gay?'))
+begin_name = input('Hello!') 
+
+begin_name = input('Why is your mom gay?')
+print(begin_name)
+wtf_name = input("she def a homo ")
+print(wtf_name)
+lol_name = input("does she know she is gay?")
+print(lol_name)
+loll_name = input("so she is gay?")
+print(loll_name)
+print("gotcha bitch")
