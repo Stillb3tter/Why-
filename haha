@@ -1,0 +1,4 @@
+name = imput ("Your mom is gay")
+print('Hello', '!') 
+
+begin_name = int(input('Why is your mom gay?'))
